@@ -1,0 +1,48 @@
+C:\Users\Hasan Karami\Desktop\Hasan Company\Programming ASP\ASP_MicroService_Social_News\src\Services\KernelServices\UserService\Core\Karami.Common\bin\Debug\net6.0\Karami.Common.deps.json
+C:\Users\Hasan Karami\Desktop\Hasan Company\Programming ASP\ASP_MicroService_Social_News\src\Services\KernelServices\UserService\Core\Karami.Common\bin\Debug\net6.0\Karami.Common.dll
+C:\Users\Hasan Karami\Desktop\Hasan Company\Programming ASP\ASP_MicroService_Social_News\src\Services\KernelServices\UserService\Core\Karami.Common\bin\Debug\net6.0\ref\Karami.Common.dll
+C:\Users\Hasan Karami\Desktop\Hasan Company\Programming ASP\ASP_MicroService_Social_News\src\Services\KernelServices\UserService\Core\Karami.Common\bin\Debug\net6.0\Karami.Common.pdb
+C:\Users\Hasan Karami\Desktop\Hasan Company\Programming ASP\ASP_MicroService_Social_News\src\Services\KernelServices\UserService\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.csproj.AssemblyReference.cache
+C:\Users\Hasan Karami\Desktop\Hasan Company\Programming ASP\ASP_MicroService_Social_News\src\Services\KernelServices\UserService\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan Karami\Desktop\Hasan Company\Programming ASP\ASP_MicroService_Social_News\src\Services\KernelServices\UserService\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.AssemblyInfoInputs.cache
+C:\Users\Hasan Karami\Desktop\Hasan Company\Programming ASP\ASP_MicroService_Social_News\src\Services\KernelServices\UserService\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.AssemblyInfo.cs
+C:\Users\Hasan Karami\Desktop\Hasan Company\Programming ASP\ASP_MicroService_Social_News\src\Services\KernelServices\UserService\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Karami\Desktop\Hasan Company\Programming ASP\ASP_MicroService_Social_News\src\Services\KernelServices\UserService\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.dll
+C:\Users\Hasan Karami\Desktop\Hasan Company\Programming ASP\ASP_MicroService_Social_News\src\Services\KernelServices\UserService\Core\Karami.Common\obj\Debug\net6.0\ref\Karami.Common.dll
+C:\Users\Hasan Karami\Desktop\Hasan Company\Programming ASP\ASP_MicroService_Social_News\src\Services\KernelServices\UserService\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.pdb
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_DDD_Dotris\src\Services\UserService\src\Core\Karami.Common\bin\Debug\net6.0\Karami.Common.deps.json
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_DDD_Dotris\src\Services\UserService\src\Core\Karami.Common\bin\Debug\net6.0\Karami.Common.dll
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_DDD_Dotris\src\Services\UserService\src\Core\Karami.Common\bin\Debug\net6.0\ref\Karami.Common.dll
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_DDD_Dotris\src\Services\UserService\src\Core\Karami.Common\bin\Debug\net6.0\Karami.Common.pdb
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_DDD_Dotris\src\Services\UserService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.csproj.AssemblyReference.cache
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_DDD_Dotris\src\Services\UserService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_DDD_Dotris\src\Services\UserService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.AssemblyInfoInputs.cache
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_DDD_Dotris\src\Services\UserService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.AssemblyInfo.cs
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_DDD_Dotris\src\Services\UserService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.csproj.CoreCompileInputs.cache
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_DDD_Dotris\src\Services\UserService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.dll
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_DDD_Dotris\src\Services\UserService\src\Core\Karami.Common\obj\Debug\net6.0\ref\Karami.Common.dll
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_DDD_Dotris\src\Services\UserService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.pdb
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\UserService\src\Core\Karami.Common\bin\Debug\net6.0\Karami.Common.deps.json
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\UserService\src\Core\Karami.Common\bin\Debug\net6.0\Karami.Common.dll
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\UserService\src\Core\Karami.Common\bin\Debug\net6.0\ref\Karami.Common.dll
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\UserService\src\Core\Karami.Common\bin\Debug\net6.0\Karami.Common.pdb
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\UserService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.csproj.AssemblyReference.cache
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\UserService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\UserService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.AssemblyInfoInputs.cache
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\UserService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.AssemblyInfo.cs
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\UserService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.csproj.CoreCompileInputs.cache
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\UserService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.dll
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\UserService\src\Core\Karami.Common\obj\Debug\net6.0\ref\Karami.Common.dll
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\UserService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.pdb
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\AuthService\src\Core\Karami.Common\bin\Debug\net6.0\Karami.Common.deps.json
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\AuthService\src\Core\Karami.Common\bin\Debug\net6.0\Karami.Common.dll
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\AuthService\src\Core\Karami.Common\bin\Debug\net6.0\Karami.Common.pdb
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\AuthService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.csproj.AssemblyReference.cache
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\AuthService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\AuthService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.AssemblyInfoInputs.cache
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\AuthService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.AssemblyInfo.cs
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\AuthService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.csproj.CoreCompileInputs.cache
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\AuthService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.dll
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\AuthService\src\Core\Karami.Common\obj\Debug\net6.0\refint\Karami.Common.dll
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\AuthService\src\Core\Karami.Common\obj\Debug\net6.0\Karami.Common.pdb
+C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\AuthService\src\Core\Karami.Common\obj\Debug\net6.0\ref\Karami.Common.dll

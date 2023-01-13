@@ -1,0 +1,36 @@
+syntax = "proto3";
+
+package Karami.UseCase.UserUseCase.AuthService;
+
+/*-------------------------------------------------------------------*/
+
+//Login
+
+message SignInRequest {
+    String username = 1;
+    String password = 2;
+}
+
+message SignInResponse {
+    int32 code              = 1;
+    string message          = 2;
+    SignInResponseBody body = 3;
+}
+
+message SignInResponseBody {
+    string token = 1;
+}
+
+/*-------------------------------------------------------------------*/
+
+//Global
+
+message String { string value = 1; }
+
+/*-------------------------------------------------------------------*/
+
+service AuthService {
+
+    rpc SignIn(SignInRequest) returns (SignInResponse) {}
+    
+}

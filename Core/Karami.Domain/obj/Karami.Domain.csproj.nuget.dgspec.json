@@ -1,0 +1,222 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lion\\Desktop\\Hasan Company\\Programming ASP\\ASP_Micro_Clean_Dotris_Final\\src\\Services\\AuthService\\src\\Core\\Karami.Domain\\Karami.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lion\\Desktop\\Hasan Company\\Programming ASP\\ASP_Micro_Clean_Dotris_Final\\src\\Services\\AuthService\\src\\Core\\Karami.Common\\Karami.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lion\\Desktop\\Hasan Company\\Programming ASP\\ASP_Micro_Clean_Dotris_Final\\src\\Services\\AuthService\\src\\Core\\Karami.Common\\Karami.Common.csproj",
+        "projectName": "Karami.Common",
+        "projectPath": "C:\\Users\\Lion\\Desktop\\Hasan Company\\Programming ASP\\ASP_Micro_Clean_Dotris_Final\\src\\Services\\AuthService\\src\\Core\\Karami.Common\\Karami.Common.csproj",
+        "packagesPath": "C:\\Users\\Lion\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lion\\Desktop\\Hasan Company\\Programming ASP\\ASP_Micro_Clean_Dotris_Final\\src\\Services\\AuthService\\src\\Core\\Karami.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lion\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Elmah.Io.AspNetCore": {
+              "target": "Package",
+              "version": "[4.3.48, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.40.0, )"
+            },
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.40.0, )"
+            },
+            "Hangfire.AspNetCore": {
+              "target": "Package",
+              "version": "[1.7.31, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.7.31, )"
+            },
+            "Hangfire.SqlServer": {
+              "target": "Package",
+              "version": "[1.7.31, )"
+            },
+            "HtmlSanitizer": {
+              "target": "Package",
+              "version": "[6.0.453, )"
+            },
+            "MD.PersianDateTime.Standard": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.25.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.17.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.2.88, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lion\\Desktop\\Hasan Company\\Programming ASP\\ASP_Micro_Clean_Dotris_Final\\src\\Services\\AuthService\\src\\Core\\Karami.Domain\\Karami.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lion\\Desktop\\Hasan Company\\Programming ASP\\ASP_Micro_Clean_Dotris_Final\\src\\Services\\AuthService\\src\\Core\\Karami.Domain\\Karami.Domain.csproj",
+        "projectName": "Karami.Domain",
+        "projectPath": "C:\\Users\\Lion\\Desktop\\Hasan Company\\Programming ASP\\ASP_Micro_Clean_Dotris_Final\\src\\Services\\AuthService\\src\\Core\\Karami.Domain\\Karami.Domain.csproj",
+        "packagesPath": "C:\\Users\\Lion\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lion\\Desktop\\Hasan Company\\Programming ASP\\ASP_Micro_Clean_Dotris_Final\\src\\Services\\AuthService\\src\\Core\\Karami.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lion\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Lion\\Desktop\\Hasan Company\\Programming ASP\\ASP_Micro_Clean_Dotris_Final\\src\\Services\\AuthService\\src\\Core\\Karami.Common\\Karami.Common.csproj": {
+                "projectPath": "C:\\Users\\Lion\\Desktop\\Hasan Company\\Programming ASP\\ASP_Micro_Clean_Dotris_Final\\src\\Services\\AuthService\\src\\Core\\Karami.Common\\Karami.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

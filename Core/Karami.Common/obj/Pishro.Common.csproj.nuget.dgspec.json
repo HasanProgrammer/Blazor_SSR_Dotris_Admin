@@ -1,0 +1,121 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hasan Karami\\Desktop\\Hasan Company\\Programming ASP\\ASP_Micro_Clean_Dotris\\src\\Services\\KernelService\\VideoService\\Core\\Pishro.Common\\Pishro.Common.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hasan Karami\\Desktop\\Hasan Company\\Programming ASP\\ASP_Micro_Clean_Dotris\\src\\Services\\KernelService\\VideoService\\Core\\Pishro.Common\\Pishro.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hasan Karami\\Desktop\\Hasan Company\\Programming ASP\\ASP_Micro_Clean_Dotris\\src\\Services\\KernelService\\VideoService\\Core\\Pishro.Common\\Pishro.Common.csproj",
+        "projectName": "Pishro.Common",
+        "projectPath": "C:\\Users\\Hasan Karami\\Desktop\\Hasan Company\\Programming ASP\\ASP_Micro_Clean_Dotris\\src\\Services\\KernelService\\VideoService\\Core\\Pishro.Common\\Pishro.Common.csproj",
+        "packagesPath": "C:\\Users\\Hasan Karami\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hasan Karami\\Desktop\\Hasan Company\\Programming ASP\\ASP_Micro_Clean_Dotris\\src\\Services\\KernelService\\VideoService\\Core\\Pishro.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hasan Karami\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.40.0, )"
+            },
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.40.0, )"
+            },
+            "HtmlSanitizer": {
+              "target": "Package",
+              "version": "[6.0.453, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.14.1, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0-preview3.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.2.88, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

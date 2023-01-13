@@ -1,0 +1,2 @@
+obj\Debug\net6.0\UserUseCase\DTOs\Protos/AuthService.cs \
+obj\Debug\net6.0\UserUseCase\DTOs\Protos/AuthServiceGrpc.cs: UserUseCase/DTOs/Protos/AuthService.proto
