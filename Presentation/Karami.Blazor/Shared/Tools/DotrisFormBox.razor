@@ -1,0 +1,19 @@
+@namespace Tools
+
+<form action="@Route">
+    
+    <button type="button" @onclick="async () => await OnClickAsync(Route)">رو من بزن رفیق !</button>
+</form>
+
+@code {
+    
+    [Parameter]
+    public string Route { get; set; }
+
+    public Task OnClickAsync(string route)
+    {
+        Console.WriteLine($"Hasan Programmer ! {route}");
+
+        return Task.CompletedTask;
+    }
+}

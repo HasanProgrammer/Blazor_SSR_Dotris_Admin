@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Karami.Common
-build_property.ProjectDir = C:\Users\Lion\Desktop\Hasan Company\Programming ASP\ASP_Micro_Clean_Dotris_Final\src\Services\AuthService\src\Core\Karami.Common\
+build_property.ProjectDir = C:\Users\Lion\Desktop\Hasan Company\Programming C#\Blazor_SSR_Dotris_Admin\Core\Karami.Common\
